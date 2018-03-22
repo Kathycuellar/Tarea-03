@@ -1,0 +1,12 @@
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\bin\Debug\calcular velocidad.exe.config
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\bin\Debug\calcular velocidad.exe
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\bin\Debug\calcular velocidad.pdb
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular_velocidad.Form1.resources
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular_velocidad.Properties.Resources.resources
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.exe
+C:\Users\diego\Desktop\Pro 4\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.pdb
+C:\Users\Kathy\Desktop\calcular velocidad\calcular velocidad\bin\Debug\calcular velocidad.exe.config
+C:\Users\Kathy\Desktop\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.exe
+C:\Users\Kathy\Desktop\calcular velocidad\calcular velocidad\obj\Debug\calcular velocidad.pdb
